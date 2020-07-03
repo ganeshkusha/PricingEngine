@@ -1,0 +1,11 @@
+{
+"components":[
+{"frame": "abc","handleBarWithBrakes": "3"},
+{"frame": "def","handleBarWithBrakes": "1"},
+{"frame": "ghi","handleBarWithBrakes": "2"},
+{"frame": "abc","handleBarWithBrakes": "12"},
+{"frame": "abc","handleBarWithBrakes": "12"},
+{"frame": "abc","handleBarWithBrakes": "12"},
+{"frame": "abc","handleBarWithBrakes": "12"}
+]
+}
