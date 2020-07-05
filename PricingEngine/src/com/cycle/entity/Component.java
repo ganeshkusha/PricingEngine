@@ -1,5 +1,9 @@
 package com.cycle.entity;
 
+/**
+ * This pojo is for Cycle higher components
+ */
+
 public class Component {
 
 	private String frame;
@@ -7,6 +11,8 @@ public class Component {
 	private String seating;
 	private String wheels;
 	private String chainAssembly;
+	private int bookingYear;
+	private int bookingId;
 
 	public String getFrame() {
 		return frame;
@@ -46,6 +52,22 @@ public class Component {
 
 	public void setChainAssembly(String chainAssembly) {
 		this.chainAssembly = chainAssembly;
+	}
+
+	public int getBookingYear() {
+		return bookingYear;
+	}
+
+	public void setBookingYear(int bookingYear) {
+		this.bookingYear = bookingYear;
+	}
+
+	public int getBookingId() {
+		return bookingId;
+	}
+
+	public void setBookingId(int bookingId) {
+		this.bookingId = bookingId;
 	}
 
 }

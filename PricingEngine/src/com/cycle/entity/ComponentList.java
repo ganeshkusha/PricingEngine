@@ -2,6 +2,10 @@ package com.cycle.entity;
 
 import java.util.List;
 
+/**
+ * This is dummy class created for data processing
+ *
+ */
 public class ComponentList {
 
 	private List<Component> components;

@@ -1,11 +1,16 @@
 {
 "components":[
-{"frame": "abc","handleBarWithBrakes": "3"},
-{"frame": "def","handleBarWithBrakes": "1"},
-{"frame": "ghi","handleBarWithBrakes": "2"},
-{"frame": "abc","handleBarWithBrakes": "12"},
-{"frame": "abc","handleBarWithBrakes": "12"},
-{"frame": "abc","handleBarWithBrakes": "12"},
-{"frame": "abc","handleBarWithBrakes": "12"}
+{"bookingId":"1","bookingYear":"2020","frame": "steel","handleBarWithBrakes": "3","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"2","bookingYear":"2019","frame": "default","handleBarWithBrakes": "4","seating":"plastic","wheels":"rim,tubeless,spokes","chainAssembly":"custom"},
+{"bookingId":"3","bookingYear":"2025","frame": "default","handleBarWithBrakes": "2","seating":"default","wheels":"default","chainAssembly":"default"},
+{"bookingId":"4","bookingYear":"2019","frame": "steel","handleBarWithBrakes": "3","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"5","bookingYear":"2004","frame": "steel","handleBarWithBrakes": "3","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"6","bookingYear":"2050","frame": "plastic","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"7","bookingYear":"2015","frame": "default","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"8","bookingYear":"2015","frame": "steel","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"9","bookingYear":"2015","frame": "default","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"10","bookingYear":"2010","frame": "default","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"11","bookingYear":"2008","frame": "default","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"},
+{"bookingId":"12","bookingYear":"2006","frame": "default","handleBarWithBrakes": "2","seating":"leather","wheels":"rim,tubeless","chainAssembly":"default"}
 ]
 }
